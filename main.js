@@ -36,7 +36,7 @@ console.log('einde programma')
 
 //opdracht 5
 let number5 = 0
-while(number5 < 8);
+while(number5 < 8);{
 console.log('ik ben een student van rocmondriaan')
-number5++;
+number5++;}
 console.log('einde programma')
