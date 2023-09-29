@@ -1,3 +1,4 @@
+
 //opdracht 1
 
 let number = 0;
@@ -24,11 +25,18 @@ while (number3 < 10) {
 }
 console.log('einde programma')
 
-    //opdracht 4
+//opdracht 4
 
     let number4 = 4;
 while (number4 < 40) {
     console.log(number4);
     number4++;
 }
+console.log('einde programma')
+
+//opdracht 5
+let number5 = 0
+while(number5 < 8);
+console.log('ik ben een student van rocmondriaan')
+number5++;
 console.log('einde programma')
